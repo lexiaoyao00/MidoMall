@@ -1,0 +1,2 @@
+# MidoMall
+Django练习
